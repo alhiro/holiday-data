@@ -1,0 +1,54 @@
+[
+  { "event_date": "2025-01-10", "event_name": "Hari Gerakan Satu Juta Pohon" },
+  { "event_date": "2025-01-15", "event_name": "Hari Dharma Samudera" },
+  { "event_date": "2025-01-25", "event_name": "Hari Gizi Nasional" },
+
+  { "event_date": "2025-02-05", "event_name": "Hari Peristiwa Kapal Tujuh Provinsi" },
+  { "event_date": "2025-02-09", "event_name": "Hari Pers Nasional" },
+  { "event_date": "2025-02-14", "event_name": "Hari Valentine" },
+
+  { "event_date": "2025-03-01", "event_name": "Hari Penegakan Kedaulatan Negara" },
+  { "event_date": "2025-03-06", "event_name": "Hari Kostrad" },
+  { "event_date": "2025-03-08", "event_name": "Hari Perempuan Internasional" },
+  { "event_date": "2025-03-30", "event_name": "Hari Film Nasional" },
+
+  { "event_date": "2025-04-02", "event_name": "Hari Autisme Sedunia" },
+  { "event_date": "2025-04-21", "event_name": "Hari Kartini" },
+  { "event_date": "2025-04-22", "event_name": "Hari Bumi" },
+
+  { "event_date": "2025-05-02", "event_name": "Hari Pendidikan Nasional" },
+  { "event_date": "2025-05-05", "event_name": "Hari Bidan Internasional" },
+  { "event_date": "2025-05-20", "event_name": "Hari Kebangkitan Nasional" },
+  { "event_date": "2025-05-29", "event_name": "Hari Lanjut Usia Nasional" },
+
+  { "event_date": "2025-06-01", "event_name": "Hari Lahir Pancasila" },
+  { "event_date": "2025-06-21", "event_name": "Hari Krida Pertanian" },
+  { "event_date": "2025-06-24", "event_name": "Hari Bidan Nasional" },
+
+  { "event_date": "2025-07-01", "event_name": "Hari Bhayangkara" },
+  { "event_date": "2025-07-23", "event_name": "Hari Anak Nasional" },
+
+  { "event_date": "2025-08-05", "event_name": "Hari Dharma Wanita Nasional" },
+  { "event_date": "2025-08-10", "event_name": "Hari Veteran Nasional" },
+  { "event_date": "2025-08-14", "event_name": "Hari Pramuka" },
+  { "event_date": "2025-08-17", "event_name": "Hari Konstitusi" },
+
+  { "event_date": "2025-09-08", "event_name": "Hari Aksara Internasional" },
+  { "event_date": "2025-09-17", "event_name": "Hari Perhubungan Nasional" },
+  { "event_date": "2025-09-24", "event_name": "Hari Tani Nasional" },
+  { "event_date": "2025-09-30", "event_name": "Hari Peringatan G30S" },
+
+  { "event_date": "2025-10-01", "event_name": "Hari Kesaktian Pancasila" },
+  { "event_date": "2025-10-05", "event_name": "Hari TNI" },
+  { "event_date": "2025-10-16", "event_name": "Hari Pangan Sedunia" },
+  { "event_date": "2025-10-28", "event_name": "Hari Sumpah Pemuda" },
+
+  { "event_date": "2025-11-10", "event_name": "Hari Pahlawan" },
+  { "event_date": "2025-11-12", "event_name": "Hari Kesehatan Nasional" },
+  { "event_date": "2025-11-12", "event_name": "Hari Ayah Nasional" }
+  { "event_date": "2025-11-25", "event_name": "Hari Guru Nasional" },
+
+  { "event_date": "2025-12-01", "event_name": "Hari AIDS Sedunia" },
+  { "event_date": "2025-12-09", "event_name": "Hari Anti Korupsi Sedunia" },
+  { "event_date": "2025-12-22", "event_name": "Hari Ibu" }
+]
