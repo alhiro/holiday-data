@@ -4,8 +4,12 @@
   { "holiday_date": "2026-03-19", "holiday_name": "Hari Raya Nyepi" },
   { "holiday_date": "2026-03-20", "holiday_name": "Idul Fitri 1447 H" },
   { "holiday_date": "2026-03-21", "holiday_name": "Idul Fitri 1447 H (Hari Kedua)" },
-  { "holiday_date": "2026-05-27", "holiday_name": "Hari Raya Waisak" },
-  { "holiday_date": "2026-05-26", "holiday_name": "Idul Adha 1447 H" },
+  { "holiday_date": "2026-05-01", "holiday_name": "Hari Buruh Internasional" },
+  { "holiday_date": "2026-05-14", "holiday_name": "Kenaikan Yesus Kristus" },
+  { "holiday_date": "2026-05-15", "holiday_name": "Cuti Bersama Kenaikan Yesus Kristus" },
+  { "holiday_date": "2026-05-27", "holiday_name": "Idul Adha 1447 H" },
+  { "holiday_date": "2026-05-28", "holiday_name": "Cuti Bersama Idul Adha" },
+  { "holiday_date": "2026-05-31", "holiday_name": "Hari Raya Waisak 2570 BE" },
   { "holiday_date": "2026-06-16", "holiday_name": "Tahun Baru Islam 1448 H" },
   { "holiday_date": "2026-08-26", "holiday_name": "Maulid Nabi Muhammad SAW" }
 ]
