@@ -1,11 +1,90 @@
 [
-  { "holiday_date": "2027-01-06", "holiday_name": "Isra Mi'raj Nabi Muhammad SAW" },
-  { "holiday_date": "2027-02-06", "holiday_name": "Tahun Baru Imlek 2578 Kongzili" },
-  { "holiday_date": "2027-03-09", "holiday_name": "Hari Raya Nyepi" },
-  { "holiday_date": "2027-03-10", "holiday_name": "Idul Fitri 1448 H" },
-  { "holiday_date": "2027-03-11", "holiday_name": "Idul Fitri 1448 H (Hari Kedua)" },
-  { "holiday_date": "2027-05-16", "holiday_name": "Hari Raya Waisak" },
-  { "holiday_date": "2027-05-16", "holiday_name": "Idul Adha 1448 H" },
-  { "holiday_date": "2027-06-06", "holiday_name": "Tahun Baru Islam 1449 H" },
-  { "holiday_date": "2027-08-16", "holiday_name": "Maulid Nabi Muhammad SAW" }
+  {
+    "holiday_date": "2027-01-05",
+    "holiday_name": "Isra Mi'raj Nabi Muhammad SAW"
+  },
+  {
+    "holiday_date": "2027-02-05",
+    "holiday_name": "Cuti Bersama Tahun Baru Imlek"
+  },
+  {
+    "holiday_date": "2027-02-06",
+    "holiday_name": "Tahun Baru Imlek 2578 Kongzili"
+  },
+  {
+    "holiday_date": "2027-03-08",
+    "holiday_name": "Hari Raya Nyepi (Tahun Baru Saka 1949)"
+  },
+  {
+    "holiday_date": "2027-03-09",
+    "holiday_name": "Cuti Bersama Idul Fitri"
+  },
+  {
+    "holiday_date": "2027-03-10",
+    "holiday_name": "Idul Fitri 1448 H"
+  },
+  {
+    "holiday_date": "2027-03-11",
+    "holiday_name": "Idul Fitri 1448 H (Hari Kedua)"
+  },
+  {
+    "holiday_date": "2027-03-12",
+    "holiday_name": "Cuti Bersama Idul Fitri"
+  },
+  {
+    "holiday_date": "2027-03-15",
+    "holiday_name": "Cuti Bersama Idul Fitri"
+  },
+  {
+    "holiday_date": "2027-03-25",
+    "holiday_name": "Cuti Bersama Wafat Yesus Kristus"
+  },
+  {
+    "holiday_date": "2027-03-26",
+    "holiday_name": "Wafat Yesus Kristus"
+  },
+  {
+    "holiday_date": "2027-03-28",
+    "holiday_name": "Hari Paskah"
+  },
+  {
+    "holiday_date": "2027-05-01",
+    "holiday_name": "Hari Buruh Internasional"
+  },
+  {
+    "holiday_date": "2027-05-06",
+    "holiday_name": "Kenaikan Yesus Kristus"
+  },
+  {
+    "holiday_date": "2027-05-17",
+    "holiday_name": "Idul Adha 1448 H"
+  },
+  {
+    "holiday_date": "2027-05-18",
+    "holiday_name": "Cuti Bersama Idul Adha"
+  },
+  {
+    "holiday_date": "2027-05-19",
+    "holiday_name": "Cuti Bersama Waisak"
+  },
+  {
+    "holiday_date": "2027-05-20",
+    "holiday_name": "Hari Raya Waisak 2571 BE"
+  },
+  {
+    "holiday_date": "2027-06-06",
+    "holiday_name": "Tahun Baru Islam 1449 H"
+  },
+  {
+    "holiday_date": "2027-08-15",
+    "holiday_name": "Maulid Nabi Muhammad SAW"
+  },
+  {
+    "holiday_date": "2027-12-24",
+    "holiday_name": "Cuti Bersama Natal"
+  },
+  {
+    "holiday_date": "2027-12-26",
+    "holiday_name": "Isra Mi'raj Nabi Muhammad SAW"
+  }
 ]

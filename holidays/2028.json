@@ -1,11 +1,54 @@
 [
-  { "holiday_date": "2028-01-26", "holiday_name": "Isra Mi'raj Nabi Muhammad SAW" },
-  { "holiday_date": "2028-01-26", "holiday_name": "Tahun Baru Imlek 2579 Kongzili" },
-  { "holiday_date": "2028-02-28", "holiday_name": "Hari Raya Nyepi" },
-  { "holiday_date": "2028-02-29", "holiday_name": "Idul Fitri 1449 H" },
-  { "holiday_date": "2028-03-01", "holiday_name": "Idul Fitri 1449 H (Hari Kedua)" },
-  { "holiday_date": "2028-05-04", "holiday_name": "Hari Raya Waisak" },
-  { "holiday_date": "2028-05-04", "holiday_name": "Idul Adha 1449 H" },
-  { "holiday_date": "2028-05-25", "holiday_name": "Tahun Baru Islam 1450 H" },
-  { "holiday_date": "2028-08-04", "holiday_name": "Maulid Nabi Muhammad SAW" }
+  {
+    "holiday_date": "2028-01-26",
+    "holiday_name": "Tahun Baru Imlek 2579 Kongzili"
+  },
+  {
+    "holiday_date": "2028-02-27",
+    "holiday_name": "Idul Fitri 1449 H (perkiraan)"
+  },
+  {
+    "holiday_date": "2028-02-28",
+    "holiday_name": "Idul Fitri 1449 H (Hari Kedua, perkiraan)"
+  },
+  {
+    "holiday_date": "2028-03-26",
+    "holiday_name": "Hari Raya Nyepi (Tahun Baru Saka 1950, perkiraan)"
+  },
+  {
+    "holiday_date": "2028-04-14",
+    "holiday_name": "Wafat Yesus Kristus"
+  },
+  {
+    "holiday_date": "2028-04-16",
+    "holiday_name": "Hari Paskah"
+  },
+  {
+    "holiday_date": "2028-05-01",
+    "holiday_name": "Hari Buruh Internasional"
+  },
+  {
+    "holiday_date": "2028-05-05",
+    "holiday_name": "Idul Adha 1449 H (perkiraan)"
+  },
+  {
+    "holiday_date": "2028-05-09",
+    "holiday_name": "Hari Raya Waisak 2572 BE (perkiraan)"
+  },
+  {
+    "holiday_date": "2028-05-25",
+    "holiday_name": "Kenaikan Yesus Kristus"
+  },
+  {
+    "holiday_date": "2028-05-26",
+    "holiday_name": "Tahun Baru Islam 1450 H (perkiraan)"
+  },
+  {
+    "holiday_date": "2028-08-04",
+    "holiday_name": "Maulid Nabi Muhammad SAW (perkiraan)"
+  },
+  {
+    "holiday_date": "2028-12-14",
+    "holiday_name": "Isra Mi'raj Nabi Muhammad SAW (perkiraan)"
+  }
 ]
