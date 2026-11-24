@@ -1,0 +1,184 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "localName": "Tahun Baru 2026 Masehi",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-01-16",
+    "name": "Isra and Mi'raj",
+    "localName": "Isra Mi'raj Nabi Muhammad SAW",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Chinese New Year Joint Leave",
+    "localName": "Cuti Bersama Tahun Baru Imlek",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Chinese New Year",
+    "localName": "Tahun Baru Imlek 2577 Kongzili",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-03-18",
+    "name": "Nyepi Joint Leave",
+    "localName": "Cuti Bersama Hari Raya Nyepi",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-03-19",
+    "name": "Day of Silence (Nyepi)",
+    "localName": "Hari Raya Nyepi (Tahun Baru Saka 1948)",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-03-20",
+    "name": "Eid al-Fitr",
+    "localName": "Hari Raya Idul Fitri 1447 H",
+    "isJointLeave": false,
+    "calendar": "muhammadiyah"
+  },
+  {
+    "date": "2026-03-20",
+    "name": "Eid al-Fitr Joint Leave",
+    "localName": "Cuti Bersama Idul Fitri",
+    "isJointLeave": true,
+    "calendar": "skb"
+  },
+  {
+    "date": "2026-03-21",
+    "name": "Eid al-Fitr",
+    "localName": "Hari Raya Idul Fitri 1447 H",
+    "isJointLeave": false,
+    "calendar": "skb"
+  },
+  {
+    "date": "2026-03-22",
+    "name": "Eid al-Fitr (Day 2)",
+    "localName": "Hari Raya Idul Fitri 1447 H (Hari Kedua)",
+    "isJointLeave": false,
+    "calendar": "skb"
+  },
+  {
+    "date": "2026-03-23",
+    "name": "Eid al-Fitr Joint Leave",
+    "localName": "Cuti Bersama Idul Fitri",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-03-24",
+    "name": "Eid al-Fitr Joint Leave",
+    "localName": "Cuti Bersama Idul Fitri",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "localName": "Wafat Yesus Kristus",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "localName": "Hari Paskah",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "International Workers' Day",
+    "localName": "Hari Buruh Internasional",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension of Jesus Christ",
+    "localName": "Kenaikan Yesus Kristus",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-05-15",
+    "name": "Ascension of Jesus Christ Joint Leave",
+    "localName": "Cuti Bersama Kenaikan Yesus Kristus",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-05-27",
+    "name": "Eid al-Adha",
+    "localName": "Idul Adha 1447 H",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-05-28",
+    "name": "Eid al-Adha Joint Leave",
+    "localName": "Cuti Bersama Idul Adha",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Vesak Day",
+    "localName": "Hari Raya Waisak 2570 BE",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Pancasila Day",
+    "localName": "Hari Lahir Pancasila",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-06-16",
+    "name": "Islamic New Year",
+    "localName": "Tahun Baru Islam 1448 H",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-08-17",
+    "name": "Independence Day",
+    "localName": "Hari Kemerdekaan Republik Indonesia",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-08-25",
+    "name": "Mawlid (Prophet Muhammad's Birthday)",
+    "localName": "Maulid Nabi Muhammad SAW",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Joint Leave",
+    "localName": "Cuti Bersama Natal",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "localName": "Kelahiran Yesus Kristus (Natal)",
+    "isJointLeave": false,
+    "calendar": "all"
+  }
+]

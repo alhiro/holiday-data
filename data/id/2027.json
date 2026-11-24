@@ -1,0 +1,184 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "localName": "Tahun Baru 2027 Masehi",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-01-05",
+    "name": "Isra and Mi'raj",
+    "localName": "Isra Mi'raj Nabi Muhammad SAW",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-02-05",
+    "name": "Chinese New Year Joint Leave",
+    "localName": "Cuti Bersama Tahun Baru Imlek",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-02-06",
+    "name": "Chinese New Year",
+    "localName": "Tahun Baru Imlek 2578 Kongzili",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Day of Silence (Nyepi)",
+    "localName": "Hari Raya Nyepi (Tahun Baru Saka 1949)",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-03-09",
+    "name": "Eid al-Fitr Joint Leave",
+    "localName": "Cuti Bersama Idul Fitri",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-03-10",
+    "name": "Eid al-Fitr",
+    "localName": "Idul Fitri 1448 H",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-03-11",
+    "name": "Eid al-Fitr (Day 2)",
+    "localName": "Idul Fitri 1448 H (Hari Kedua)",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-03-12",
+    "name": "Eid al-Fitr Joint Leave",
+    "localName": "Cuti Bersama Idul Fitri",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-03-15",
+    "name": "Eid al-Fitr Joint Leave",
+    "localName": "Cuti Bersama Idul Fitri",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Good Friday Joint Leave",
+    "localName": "Cuti Bersama Wafat Yesus Kristus",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "localName": "Wafat Yesus Kristus",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "localName": "Hari Paskah",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "International Workers' Day",
+    "localName": "Hari Buruh Internasional",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension of Jesus Christ",
+    "localName": "Kenaikan Yesus Kristus",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Eid al-Adha",
+    "localName": "Idul Adha 1448 H",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-05-18",
+    "name": "Eid al-Adha Joint Leave",
+    "localName": "Cuti Bersama Idul Adha",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-05-19",
+    "name": "Vesak Day Joint Leave",
+    "localName": "Cuti Bersama Waisak",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-05-20",
+    "name": "Vesak Day",
+    "localName": "Hari Raya Waisak 2571 BE",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-06-01",
+    "name": "Pancasila Day",
+    "localName": "Hari Lahir Pancasila",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-06-06",
+    "name": "Islamic New Year",
+    "localName": "Tahun Baru Islam 1449 H",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Mawlid (Prophet Muhammad's Birthday)",
+    "localName": "Maulid Nabi Muhammad SAW",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-08-17",
+    "name": "Independence Day",
+    "localName": "Hari Kemerdekaan Republik Indonesia",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Joint Leave",
+    "localName": "Cuti Bersama Natal",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "localName": "Kelahiran Yesus Kristus (Natal)",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Isra and Mi'raj",
+    "localName": "Isra Mi'raj Nabi Muhammad SAW",
+    "isJointLeave": false,
+    "calendar": "all"
+  }
+]

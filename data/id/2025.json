@@ -1,0 +1,191 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "New Year's Day",
+    "localName": "Tahun Baru 2025 Masehi",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-01-27",
+    "name": "Isra and Mi'raj",
+    "localName": "Isra Mi'raj Nabi Muhammad SAW",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-01-28",
+    "name": "Chinese New Year Joint Leave",
+    "localName": "Cuti Bersama Tahun Baru Imlek 2576 Kongzili",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-01-29",
+    "name": "Chinese New Year",
+    "localName": "Tahun Baru Imlek 2576 Kongzili",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-03-28",
+    "name": "Nyepi Joint Leave",
+    "localName": "Cuti Bersama Hari Suci Nyepi",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-03-29",
+    "name": "Day of Silence (Nyepi)",
+    "localName": "Hari Suci Nyepi (Tahun Baru Saka 1947)",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-03-31",
+    "name": "Eid al-Fitr",
+    "localName": "Hari Raya Idul Fitri 1446 H",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-04-01",
+    "name": "Eid al-Fitr (Day 2)",
+    "localName": "Hari Raya Idul Fitri 1446 H (Hari Kedua)",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-04-02",
+    "name": "Eid al-Fitr Joint Leave",
+    "localName": "Cuti Bersama Idul Fitri 1446 H",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-04-03",
+    "name": "Eid al-Fitr Joint Leave",
+    "localName": "Cuti Bersama Idul Fitri 1446 H",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Eid al-Fitr Joint Leave",
+    "localName": "Cuti Bersama Idul Fitri 1446 H",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-04-07",
+    "name": "Eid al-Fitr Joint Leave",
+    "localName": "Cuti Bersama Idul Fitri 1446 H",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Good Friday",
+    "localName": "Wafat Yesus Kristus",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Easter Sunday",
+    "localName": "Kebangkitan Yesus Kristus (Paskah)",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-05-01",
+    "name": "International Workers' Day",
+    "localName": "Hari Buruh Internasional",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-05-12",
+    "name": "Vesak Day",
+    "localName": "Hari Raya Waisak 2569 BE",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-05-13",
+    "name": "Vesak Day Joint Leave",
+    "localName": "Cuti Bersama Hari Raya Waisak 2569 BE",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-05-29",
+    "name": "Ascension of Jesus Christ",
+    "localName": "Kenaikan Yesus Kristus",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-05-30",
+    "name": "Ascension of Jesus Christ Joint Leave",
+    "localName": "Cuti Bersama Kenaikan Yesus Kristus",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-06-01",
+    "name": "Pancasila Day",
+    "localName": "Hari Lahir Pancasila",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-06-06",
+    "name": "Eid al-Adha",
+    "localName": "Hari Raya Idul Adha 1446 H",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-06-09",
+    "name": "Eid al-Adha Joint Leave",
+    "localName": "Cuti Bersama Idul Adha 1446 H",
+    "isJointLeave": true,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-06-27",
+    "name": "Islamic New Year",
+    "localName": "Tahun Baru Islam 1447 H",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-08-17",
+    "name": "Independence Day",
+    "localName": "Hari Kemerdekaan Republik Indonesia",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-09-05",
+    "name": "Mawlid (Prophet Muhammad's Birthday)",
+    "localName": "Maulid Nabi Muhammad SAW",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Christmas Day",
+    "localName": "Kelahiran Yesus Kristus (Natal)",
+    "isJointLeave": false,
+    "calendar": "all"
+  },
+  {
+    "date": "2025-12-26",
+    "name": "Christmas Joint Leave",
+    "localName": "Cuti Bersama Kelahiran Yesus Kristus (Natal)",
+    "isJointLeave": true,
+    "calendar": "all"
+  }
+]

@@ -1,0 +1,39 @@
+name: Sync Indonesian Holidays
+
+on:
+  schedule:
+    # Runs at 00:00 UTC (07:00 WIB) on the 1st of every month
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync holidays from Google Calendar ICS
+        run: node scripts/sync-holidays.mjs
+
+      - name: Create Pull Request if data changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: automated/sync-holidays
+          commit-message: 'chore(data): sync Indonesian holiday data'
+          title: 'chore(data): sync Indonesian holiday data'
+          body: |
+            Automated monthly sync of Indonesian public holidays and joint leave (`cuti bersama`) from Google Calendar ICS.
+
+            - Preserves manual `calendar: "muhammadiyah"` entries.
+            - Please review the diff against the latest SKB 3 Menteri before merging.
+          delete-branch: true

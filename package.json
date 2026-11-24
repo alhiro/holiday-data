@@ -1,0 +1,56 @@
+{
+  "name": "holiday-data",
+  "version": "0.1.0",
+  "description": "Offline-first, zero-dependency Indonesian public holiday and joint leave data with working day utilities and Cloudflare Workers API.",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    },
+    "./data/id/*.json": "./data/id/*.json"
+  },
+  "files": [
+    "dist",
+    "data",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit",
+    "sync": "node scripts/sync-holidays.mjs",
+    "worker:dev": "wrangler dev",
+    "worker:deploy": "wrangler deploy"
+  },
+  "keywords": [
+    "indonesia",
+    "holiday",
+    "holidays",
+    "public-holiday",
+    "cuti-bersama",
+    "joint-leave",
+    "workday",
+    "business-days",
+    "skb",
+    "muhammadiyah",
+    "cloudflare-workers"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsup": "^8.3.0",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0",
+    "wrangler": "^3.80.0"
+  }
+}
